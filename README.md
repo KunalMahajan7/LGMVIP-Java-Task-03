@@ -1,1 +1,1 @@
-# LGMVIP-Java-Task-03
+# Scientific Calculator Project
